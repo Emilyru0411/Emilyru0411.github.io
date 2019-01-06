@@ -9,18 +9,5 @@
         "name": "Emily Chou"
     },
     "items": [
-        {
-            "id": "https://Emilyru0411.github.io/hao-nan.html",
-            "url": "https://Emilyru0411.github.io/hao-nan.html",
-            "title": "好難",
-            "image": "https://Emilyru0411.github.io/media/posts/1/",
-            "author": {
-                "name": "Emily Chou"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-01-06T15:30:11+08:00",
-            "date_modified": "2019-01-06T15:30:19+08:00"
-        }
     ]
 }
