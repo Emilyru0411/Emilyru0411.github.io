@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>EmilyRu</title>
+    <link href="https://Emilyru0411.github.io/feed.xml" rel="self" />
+    <link href="https://Emilyru0411.github.io" />
+    <updated>2019-01-06T15:46:51+08:00</updated>
+    <author>
+        <name>Emily Chou</name>
+    </author>
+    <id>https://Emilyru0411.github.io</id>
+
+    <entry>
+        <title>好難</title>
+        <author>
+            <name>Emily Chou</name>
+        </author>
+        <link href="https://Emilyru0411.github.io/hao-nan.html"/>
+        <id>https://Emilyru0411.github.io/hao-nan.html</id>
+
+        <updated>2019-01-06T15:30:19+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
