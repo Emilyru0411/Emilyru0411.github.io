@@ -3,10 +3,22 @@
     <title>EmilyRu</title>
     <link href="https://Emilyru0411.github.io/feed.xml" rel="self" />
     <link href="https://Emilyru0411.github.io" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2019-01-06T22:19:23+08:00</updated>
     <author>
         <name>Emily Chou</name>
     </author>
     <id>https://Emilyru0411.github.io</id>
 
+    <entry>
+        <title>2017.12.15 『今天吃什麼?』</title>
+        <author>
+            <name>Emily Chou</name>
+        </author>
+        <link href="https://Emilyru0411.github.io/20171215-jin-tian-chi-shi-mo.html"/>
+        <id>https://Emilyru0411.github.io/20171215-jin-tian-chi-shi-mo.html</id>
+
+        <updated>2019-01-06T22:19:11+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
