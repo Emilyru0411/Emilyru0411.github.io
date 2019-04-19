@@ -159,4 +159,28 @@
         }
     });
 
+    // Post image HTML structure
+    (function ($) {
+        $('.post__image--full, .post__image--wide').each(function (i, img) {
+            img = $(img);
+            if (img.parent().prop('tagName') !== 'FIGURE') {
+                img.wrap('<figure></figure>');
+            }
+        });
+    });
+
+    // Search overlay
+    $(function () {
+        $('.search-btn').click(function () {
+            $('.search__overlay').addClass('expanded');
+            setTimeout(function () {
+                $('.search__input').focus();
+            }, 50);
+        });
+
+        $('.search__close').click(function () {
+            $('.search__overlay').removeClass('expanded');
+        });
+    });
+
 })(jQuery);
