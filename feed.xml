@@ -3,32 +3,12 @@
     <title>EmilyRu</title>
     <link href="https://Emilyru0411.github.io/feed.xml" rel="self" />
     <link href="https://Emilyru0411.github.io" />
-    <updated>2019-04-21T17:13:12+08:00</updated>
+    <updated>2019-04-22T15:22:35+08:00</updated>
     <author>
         <name>Emily Chou</name>
     </author>
     <id>https://Emilyru0411.github.io</id>
 
-    <entry>
-        <title>Introduction</title>
-        <author>
-            <name>Emily Chou</name>
-        </author>
-        <link href="https://Emilyru0411.github.io/introduction.html"/>
-        <id>https://Emilyru0411.github.io/introduction.html</id>
-
-        <updated>2019-04-21T17:01:57+08:00</updated>
-            <summary>
-                <![CDATA[
-                    Hi, I'm Kitten!
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                Hi, I'm Kitten!
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>今天吃什麼?</title>
         <author>
@@ -37,16 +17,16 @@
         <link href="https://Emilyru0411.github.io/20171215-jin-tian-chi-shi-mo.html"/>
         <id>https://Emilyru0411.github.io/20171215-jin-tian-chi-shi-mo.html</id>
 
-        <updated>2019-04-21T17:12:42+08:00</updated>
+        <updated>2019-04-22T15:18:31+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://Emilyru0411.github.io/media/posts/2/Niu-Dan-POP-01.jpg" alt="" />
+                        <img src="https://Emilyru0411.github.io/media/posts/2/Niu-Dan-POP-01.png" alt="" />
                     嗨，我是愛蜜綠， 今天想分享身為行銷小菜菜的第一個提案， ：是時候從影印機抽離做點大事啦(握拳 此次 #提案靈感 來自林宥嘉的《看見什麼吃什麼》， 現在的我們常因為「選擇太多」而得了選擇性障礙症候群， 特徵是嘴上說著「我都可以」可是卻對任何選項都表達不滿意， 因此決定將現下流行的扭蛋趣與大家都愛的「優惠」二字做結合，&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://Emilyru0411.github.io/media/posts/2/Niu-Dan-POP-01.jpg" alt="" />
+                    <img src="https://Emilyru0411.github.io/media/posts/2/Niu-Dan-POP-01.png" alt="" />
                 <p>嗨，我是愛蜜綠，</p>
 <p>今天想分享身為行銷小菜菜的第一個提案，</p>
 <p>：是時候從影印機抽離做點大事啦(握拳</p>
